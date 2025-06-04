@@ -1,2 +1,2 @@
 # Trabalho-T3-VHDL
-rabalho T3 Sistemas Digitais
+Trabalho T3 Sistemas Digitais
